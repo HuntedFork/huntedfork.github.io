@@ -111,11 +111,6 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		margin-bottom: 10px
 	}
 	
-	
-	section:last-child {
-		padding: 20px 0 5px;
-	}
-	
 	.skillTitle {
 		font-weight: bold;
 	}
@@ -137,7 +132,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 	.jobHeader {
 		font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 		font-size: 1.1em;
-		margin-top: 20px;
+		margin-top: 15px;
 		font-weight: bold;
 		margin-left: 5px;
 	}
@@ -177,7 +172,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 	@media print {
 		
 		body {
-			font-size: 79%;
+			font-size: 75%;
 		}
 		#cv {
 			width: 95%;
@@ -204,7 +199,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		}
 		
 		.mainDetails {
-		   padding: 10px 10px;
+		   padding: 6px 6px;
 		   border-bottom: 0px solid #cf8a05;
 		   background: #ededed;
 		}
